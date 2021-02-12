@@ -1,5 +1,5 @@
 {
-  "name": "zeus-capacitor-push-notifications",
+  "name": "zeus-push-notifications",
   "version": "1.0.1",
   "description": "Zeus Push Notifications",
   "main": "dist/plugin.js",
@@ -37,7 +37,7 @@
     "dist/",
     "ios/",
     "android/",
-    "ZeusPushNotifications.podspec"
+    "ZeusCapacitorPushNotifications.podspec"
   ],
   "keywords": [
     "capacitor",
