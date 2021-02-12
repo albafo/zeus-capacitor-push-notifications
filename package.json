@@ -1,6 +1,6 @@
 {
-  "name": "zeus-push-notifications",
-  "version": "0.0.1",
+  "name": "zeus-cordova-push-notifications",
+  "version": "1.0.0",
   "description": "Zeus Push Notifications",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -56,9 +56,13 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/albafo/zeus-cordova-push-notifications"
+    "url": "git+https://github.com/albafo/zeus-cordova-push-notifications.git"
   },
   "bugs": {
     "url": "https://github.com/albafo/zeus-cordova-push-notifications.git/issues"
-  }
+  },
+  "dependencies": {
+    "builtin-modules": "^3.2.0"
+  },
+  "homepage": "https://github.com/albafo/zeus-cordova-push-notifications#readme"
 }
