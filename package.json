@@ -37,7 +37,7 @@
     "dist/",
     "ios/",
     "android/",
-    "ZeusCapacitorPushNotifications.podspec"
+    "ZeusPushNotifications.podspec"
   ],
   "keywords": [
     "capacitor",
