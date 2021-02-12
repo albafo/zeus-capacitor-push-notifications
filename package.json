@@ -56,9 +56,9 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://repositorios.artvisual.net/artvisual/zeus-producto-push-plugin"
+    "url": "https://github.com/albafo/zeus-cordova-push-notifications"
   },
   "bugs": {
-    "url": "https://repositorios.artvisual.net/artvisual/zeus-producto-push-plugin/issues"
+    "url": "https://github.com/albafo/zeus-cordova-push-notifications.git/issues"
   }
 }
