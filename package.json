@@ -1,5 +1,5 @@
 {
-  "name": "zeus-cordova-push-notifications",
+  "name": "zeus-capacitor-push-notifications",
   "version": "1.0.1",
   "description": "Zeus Push Notifications",
   "main": "dist/plugin.js",
@@ -62,7 +62,8 @@
     "url": "https://github.com/albafo/zeus-capacitor-push-notifications/issues"
   },
   "dependencies": {
-    "builtin-modules": "^3.2.0"
+    "builtin-modules": "^3.2.0",
+    "deep-freeze": "0.0.1"
   },
   "homepage": "https://github.com/albafo/zeus-capacitor-push-notifications#readme"
 }
