@@ -31,7 +31,7 @@
     "typescript": "~3.8.3"
   },
   "peerDependencies": {
-    "@capacitor/core": "^2.4.6"
+    "@capacitor/core": "^2.4.3"
   },
   "files": [
     "dist/",
@@ -56,13 +56,13 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albafo/zeus-cordova-push-notifications.git"
+    "url": "git+https://github.com/albafo/zeus-capacitor-push-notifications.git"
   },
   "bugs": {
-    "url": "https://github.com/albafo/zeus-cordova-push-notifications.git/issues"
+    "url": "https://github.com/albafo/zeus-capacitor-push-notifications/issues"
   },
   "dependencies": {
     "builtin-modules": "^3.2.0"
   },
-  "homepage": "https://github.com/albafo/zeus-cordova-push-notifications#readme"
+  "homepage": "https://github.com/albafo/zeus-capacitor-push-notifications#readme"
 }
