@@ -1,6 +1,6 @@
 {
   "name": "zeus-cordova-push-notifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zeus Push Notifications",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
